@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
-import Header from "./Components/Header/Header";
-import KeyPad from "./Components/KeyPad/KeyPad";
+import Header from "./components/Header/Header";
+import KeyPad from "./components/KeyPad/KeyPad";
 
 import moonIcon from "./assets/moon.png";
 import sunIcon from "./assets/sun.png";
